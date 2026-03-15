@@ -1,0 +1,23 @@
+# qbitos{dac}
+
+DAC+ tracks, stripes, complexity, and `.qbit` codec lane.
+
+## Compliance Root
+
+- Canonical policy: `https://github.com/qbitOS/compliance`
+
+## Cross-Implementation Path
+
+`DAC -> Iron Line -> Prefixes -> Quantum Gutter -> .qbit -> preflight`
+
+## Control Envelope
+
+`DAC/Prefix/Steno/Iron-Line/Preflight/search-history controls`
+
+## Integration Targets
+
+- `qbitos-quantum-prefixes`
+- `qbitos-steno`
+- `qbitos-preflight`
+- `qbitos-prefix-engine`
+- `qbit`
